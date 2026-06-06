@@ -6,5 +6,4 @@ Refer to the kernel reduceUnrolling8 and implement the kernel reduceUnrolling16,
 ## Procedure:
 
 ## Output:
-
 ## Result:
